@@ -2,6 +2,12 @@
 
 A modern web application built to help developers learn system design concepts through interactive content, case studies, and comprehensive resources.
 
+## Branding
+
+- **Logo**: "R" in purple (#800080) 
+- **Favicon**: Purple "R" on white background
+- **Theme**: Dark mode with blue-purple gradient accents
+
 ## Features
 
 - 📚 **Comprehensive Topics**
