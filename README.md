@@ -1,6 +1,36 @@
-# Getting Started with Create React App
+# System Design Learning Platform
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern web application built to help developers learn system design concepts through interactive content, case studies, and comprehensive resources.
+
+## Features
+
+- 📚 **Comprehensive Topics**
+  - Load Balancing
+  - Caching Strategies
+  - Database Sharding
+  - Microservices Architecture
+  - System Security
+  - API Design
+
+- 💡 **Real-world Case Studies**
+  - Netflix Architecture
+  - WhatsApp System Design
+  - Twitter's Backend
+  - Uber's Technology Stack
+
+- 🎯 **Key Highlights**
+  - Interactive Learning Interface
+  - Video Resources Integration
+  - External Learning Links
+  - Responsive Design
+  - Dark Theme UI
+
+## Tech Stack
+
+- React.js
+- Tailwind CSS
+- React Router
+- React Icons
 
 ## Available Scripts
 
@@ -68,3 +98,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Project Structure
