@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.gradient-bg {
+  background: linear-gradient(135deg, #2B1B7D 0%, #1F4B9A 50%, #1A237E 100%);
+  min-height: 100vh;
+}
+
+
+.gradient-text {
+  @apply bg-clip-text text-transparent bg-gradient-to-r from-[#818CF8] to-[#6366F1];
+}
+
+body {
+  background: linear-gradient(to bottom right, #0F0720 0%, #170B34 100%);
+  min-height: 100vh;
+}
+.active {
+  @apply text-white border-b-2 border-[#8B5CF6];
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
